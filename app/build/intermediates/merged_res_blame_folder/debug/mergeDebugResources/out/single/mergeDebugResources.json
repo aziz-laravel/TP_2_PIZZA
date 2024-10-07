@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\drawable_pizza2.jpg.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\drawable\\pizza2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\drawable_pizza9.jpg.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\drawable\\pizza9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\drawable_hommeavecdrapeau.png.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\drawable\\hommeavecdrapeau.png"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\layout_item_info.xml.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\layout\\item_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\layout_activity_list_pizza.xml.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\layout\\activity_list_pizza.xml"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\drawable_pizza7.jpg.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\drawable\\pizza7.jpg"
+    },
+    {
+        "merged": "com.example.tppizza.app-debug-31:/layout_activity_splash.xml.flat",
+        "source": "com.example.tppizza.app-main-33:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\drawable_fleche.png.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\drawable\\fleche.png"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\drawable_pizza5.jpg.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\drawable\\pizza5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\drawable_pizza3.jpg.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\drawable\\pizza3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\drawable_pizza10.jpg.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\drawable\\pizza10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\drawable_timer.png.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\drawable\\timer.png"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\drawable_pizza1.jpg.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\drawable\\pizza1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\drawable_share.png.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\drawable\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\drawable_pizza8.jpg.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\drawable\\pizza8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\drawable_icon.png.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\drawable_pizza6.jpg.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\drawable\\pizza6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\drawable_back.jpg.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\drawable\\back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\layout_item.xml.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-debug-31:\\drawable_pizza4.jpg.flat",
+        "source": "C:\\Users\\MOHAMMED AZIZ\\.gradle\\daemon\\8.7\\com.example.tppizza.app-main-33:\\drawable\\pizza4.jpg"
+    }
+]
