@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP PIZZA</string>
+    <string name="desc">Description : </string>
+    <string name="ingredientss">Ingredients : </string>
+    <string name="prepaa">Preparation : </string>
+    <string name="titre">Pizza Recipes</string>
+    <string name="titre2">Make your own pizza</string>
+</resources>
